@@ -1,0 +1,4 @@
+zapytanie 1: INSERT INTO uzytkownicy VALUES("", "Jan", "Nowak", "Warszawa, Kopernika 4", "608111222");
+zapytanie 2: INSERT INTO konta VALUES ("", "janNowak", "qwerty");
+zapytanie 3: SELECT imie, nazwisko FROM uzytkownicy
+zapytanie 4: SELECT adres FROM Uzytkownicy WHERE id=1;
